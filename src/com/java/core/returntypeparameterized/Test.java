@@ -11,6 +11,10 @@ public class Test {
 		subtraction s = new subtraction();
 		int ans = s.sub(12, 3);
 		System.out.println(ans);
+		
+		Multiplication m = new Multiplication();
+		int total = m.mul(21, 12);
+		System.out.println(total);
 	}
 
 }
