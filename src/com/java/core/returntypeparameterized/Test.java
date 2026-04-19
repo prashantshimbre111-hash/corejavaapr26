@@ -32,6 +32,9 @@ public class Test {
 		int value = f.sum(12,34,56,78);
 		System.out.println(value);
 		
+		tryy t = new tryy();
+		int tt = t.subtraction(90,65,43);
+		System.out.println(tt);
 		
 		
 		
