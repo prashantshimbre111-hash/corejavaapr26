@@ -27,6 +27,14 @@ public class Test {
 		assg as = new assg();
 		int add = as.sum(12,43,54);
 		System.out.println(add);
+		
+		four f = new four();
+		int value = f.sum(12,34,56,78);
+		System.out.println(value);
+		
+		
+		
+		
 				
 	}
 
