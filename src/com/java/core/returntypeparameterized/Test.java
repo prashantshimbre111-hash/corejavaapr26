@@ -15,6 +15,10 @@ public class Test {
 		Multiplication m = new Multiplication();
 		int total = m.mul(21, 12);
 		System.out.println(total);
+		
+		division d = new division();
+		int calc = d.div(234,654);
+		System.out.println(calc);
 	}
 
 }
