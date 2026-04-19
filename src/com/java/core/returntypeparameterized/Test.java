@@ -23,6 +23,11 @@ public class Test {
 		practice p = new practice();
 		int calcul = p.cal(45,65,78,54);
 				System.out.println(calcul);
+				
+		assg as = new assg();
+		int add = as.sum(12,43,54);
+		System.out.println(add);
+				
 	}
 
 }
