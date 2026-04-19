@@ -19,6 +19,10 @@ public class Test {
 		division d = new division();
 		int calc = d.div(234,654);
 		System.out.println(calc);
+		
+		practice p = new practice();
+		int calcul = p.cal(45,65,78,54);
+				System.out.println(calcul);
 	}
 
 }

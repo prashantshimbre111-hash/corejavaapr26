@@ -1,4 +1,4 @@
-package returntypemethod;
+package com.java.core.returntypemethod;
 
 public class Sub {
 	
