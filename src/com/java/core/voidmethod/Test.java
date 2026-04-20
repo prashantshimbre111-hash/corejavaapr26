@@ -16,6 +16,9 @@ public class Test {
 		 Div d = new Div();
 		 d.div();
 		 
+		 subtr ss = new subtr();
+		 ss.calculation();
+		 
 		 
 		 
 	}
