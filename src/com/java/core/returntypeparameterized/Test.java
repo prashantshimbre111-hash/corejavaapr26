@@ -37,6 +37,9 @@ public class Test {
 		System.out.println(tt);
 		
 		
+		subtr ss = new subtr();
+		int pqr = ss.calculation(54,67,876);
+		System.out.println("addtion of pqr : " + pqr);
 		
 				
 	}
