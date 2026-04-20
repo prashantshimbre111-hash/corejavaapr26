@@ -20,6 +20,13 @@ public class animal {
 		  System.out.println("age of the animal : " + le.age);
 		  System.out.println("sleeptime of the animal : " + le.sleeptime);
 		  
+		  elephant e = new elephant();
+		  System.out.println("name of animal ; " + e.name);
+		  System.out.println("gender of animal : " + e.gender);
+		  System.out.println("age of animal : " + e.age);
+		  System.out.println("sleeptime of animal : " + e.sleeptime);
+		  System.out.println("is this tiger : " + e.tiger);
+		  
 	}
 
 }
