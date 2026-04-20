@@ -20,6 +20,9 @@ public class Test {
 	cc.cal(10,5);
 	
 
+	subtrr ss = new subtrr();
+	ss.calculation(21,45,67);
+
 		
 	}
 }
