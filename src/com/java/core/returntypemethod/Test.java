@@ -4,8 +4,8 @@ public class Test {
 	
 	public static void main(String[] args) {
 		
-		Add a = new Add();
-		int total = a.addition();
+	Add a = new Add();
+	int total = a.addition();
 		
 	System.out.println(total);
 	
@@ -28,6 +28,11 @@ public class Test {
 	value v = new value();
 	int multi = v.mul();
 	System.out.println(multi);
+	
+	subtrr ss = new subtrr();
+	int multiply = ss.calcution();
+	System.out.println("a*b : " + multiply);
+	
 	
 	
 
