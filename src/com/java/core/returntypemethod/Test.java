@@ -21,6 +21,14 @@ public class Test {
 		int divide = d.div();
 	System.out.println(divide);
 	
+	subtr t = new subtr();
+	int value = t.sub();
+	System.out.println(value);
+	
+	value v = new value();
+	int multi = v.mul();
+	System.out.println(multi);
+	
 	
 
 	
