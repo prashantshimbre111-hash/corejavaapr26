@@ -54,9 +54,9 @@ public class repository {
 		s3.science = 87;
 		return s3;
 	}
-	
+
 	public student rohandetails() {
-		
+
 		student s4 = new student();
 		s4.id = 105;
 		s4.fname = "rohan";
@@ -65,7 +65,67 @@ public class repository {
 		s4.math = 89;
 		s4.science = 87;
 		return s4;
-		
+
 	}
+
+	public student nikhildetail() {
+		student s5 = new student();
+		s5.id = 105;
+		s5.fname = "nikhil";
+		s5.lname = "shimbare";
+		s5.english = 99;
+		s5.math = 89;
+		s5.science = 87;
+		return s5;
+
+	}
+
+	public student pratikdetail() {
+		student s6 = new student();
+		s6.id = 105;
+		s6.fname = "pratik";
+		s6.lname = "shimbare";
+		s6.english = 99;
+		s6.math = 89;
+		s6.science = 87;
+		return s6;
+
+	}
+	public student pranalidetail() {
+		student s7 = new student();
+		s7.id = 105;
+		s7.fname = "pranali";
+		s7.lname = "shimbare";
+		s7.english = 69;
+		s7.math = 80;
+		s7.science = 60;
+		return s7;
+
+	}
+	public student vanshdetail() {
+		student s8 = new student();
+		s8.id = 105;
+		s8.fname = "vansh";
+		s8.lname = "patil";
+		s8.english = 89;
+		s8.math = 59;
+		s8.science = 89;
+		return s8;
+
+	}
+	public student aravdetail() {
+		student s9 = new student();
+		s9.id = 105;
+		s9.fname = "arav";
+		s9.lname = "patil";
+		s9.english = 79;
+		s9.math = 70;
+		s9.science = 86;
+		return s9;
+
+	}
+
+
+
 
 }
