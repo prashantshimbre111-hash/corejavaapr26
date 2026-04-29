@@ -1,4 +1,4 @@
-package com.java.core.Loops;
+package com.java.core.forloops;
 
 public class ForLoop {
 
