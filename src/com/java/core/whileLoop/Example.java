@@ -14,13 +14,28 @@ public class Example {
 
 		// using for loop;
 
-		for (int i = 1; i <= 30; i ++) {
+		for (int i = 1; i <= 30; i++) {
 
 			if (i % 2 == 0) {
 
 				System.out.println(i);
 			}
 
+		}
+
+		System.out.println(
+				"****************************************************************************************************");
+
+		// using while loop.
+
+		int i = 1;
+
+		while (i <= 30) {
+			if (i % 2 == 0) {
+				System.out.println(i);
+			}
+
+			i++;
 		}
 	}
 
