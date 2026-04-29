@@ -15,7 +15,7 @@ public class ForLoop {
 			
 			System.out.println("Hii" + i);
 		}
-		for(int i = 5 ; i > 0 ; i--){
+		for(int i = 5 ; i >0 ; i--){
 			System.out.println(i);
 		}
 
