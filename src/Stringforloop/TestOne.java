@@ -23,6 +23,12 @@ public class TestOne {
 			
 			System.out.println(day.charAt(i));
 		}
+		
+		System.out.println("we printed wednesday in reversed in for loop");
+		for (int i = day.length()-1 ; i >= 0 ; i--) {
+			
+			System.out.println(day.charAt(i));
+		}
 
 	}
 
