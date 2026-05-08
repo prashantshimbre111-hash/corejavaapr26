@@ -5,7 +5,10 @@ public class Test {
 		
 		Student s = new Student("prashant" , 12);
 			s.printname();
-		
+	
+		Candidate c = new Candidate("prashant");
+		c.printname();
+			
 	}
 
 }
