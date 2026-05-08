@@ -9,6 +9,8 @@ public class Test {
 		Candidate c = new Candidate("prashant");
 		c.printname();
 			
+		Poco cc = new Poco("pune");
+		cc.printcity();
 	}
 
 }
