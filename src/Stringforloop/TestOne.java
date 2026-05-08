@@ -17,6 +17,7 @@ public class TestOne {
 //	y
 		
 		System.out.println(day);
+		System.out.println("we printed wednesday in for loop");
 		
 		for(int i = 0 ; i<=day.length()-1 ; i++) {
 			
