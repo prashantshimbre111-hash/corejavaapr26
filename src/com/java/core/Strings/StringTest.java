@@ -23,7 +23,7 @@ public static void main(String[] args) {
 		String e = day.toUpperCase();
 		System.out.println(e);
 		
-//		check word is exist or not
+//		check word is exist or not but it is case sensitive
 		boolean flag = day.contains("t");
 		System.out.println(flag);
 		
