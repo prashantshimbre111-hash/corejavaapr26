@@ -28,5 +28,9 @@ public class resultapp {
 		int result = (s.totalmarks*100)/s.totalsubtotal;
 		System.out.println("shivay result in percentage : " + result);
 		
+		vishwa v = new vishwa();
+		int resultofvishwa = (v.totalmarksofvishwa*100)/v.totalsubmarks;
+		System.out.println("vishwa result in precentage : " + resultofvishwa);
+		
 	}
 }
