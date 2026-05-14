@@ -11,6 +11,10 @@ public class Test {
 			
 		Poco cc = new Poco("pune");
 		cc.printcity();
+		
+		Trainee t = new Trainee("jack");
+		t.java();
+		
 	}
 
 }
