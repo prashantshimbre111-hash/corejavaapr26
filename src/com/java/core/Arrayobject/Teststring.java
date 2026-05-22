@@ -1,4 +1,4 @@
-package Arrayobject;
+package com.java.core.Arrayobject;
 
 public class Teststring {
 	public static void main(String [] args) {

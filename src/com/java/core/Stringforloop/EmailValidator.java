@@ -1,4 +1,4 @@
-package Stringforloop;
+package com.java.core.Stringforloop;
 
 import java.util.Scanner;
 

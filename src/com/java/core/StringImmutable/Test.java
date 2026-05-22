@@ -1,4 +1,4 @@
-package StringImmutable;
+package com.java.core.StringImmutable;
 
 public class Test {
 

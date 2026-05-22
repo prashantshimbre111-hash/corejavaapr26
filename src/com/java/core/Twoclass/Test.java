@@ -1,4 +1,4 @@
-package Twoclass;
+package com.java.core.Twoclass;
 
 public class Test {
 	

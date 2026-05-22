@@ -1,4 +1,4 @@
-package Twoclassvariables;
+package com.java.core.Twoclassvariables;
 
 public class Test {
 

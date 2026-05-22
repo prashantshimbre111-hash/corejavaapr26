@@ -1,4 +1,4 @@
-package Arrayobject;
+package com.java.core.Arrayobject;
 
 public class Student {
 	

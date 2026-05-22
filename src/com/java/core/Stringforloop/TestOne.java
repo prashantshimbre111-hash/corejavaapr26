@@ -1,4 +1,4 @@
-package Stringforloop;
+package com.java.core.Stringforloop;
 
 public class TestOne {
 
