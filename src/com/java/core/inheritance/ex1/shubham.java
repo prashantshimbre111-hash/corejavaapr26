@@ -1,4 +1,4 @@
-package com.java.core.inheritance;
+package com.java.core.inheritance.ex1;
 
 public class shubham extends student {
 

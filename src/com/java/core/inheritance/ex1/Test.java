@@ -1,4 +1,4 @@
-package com.java.core.inheritance;
+package com.java.core.inheritance.ex1;
 
 public class Test {
 	public static void main(String[]args) {
