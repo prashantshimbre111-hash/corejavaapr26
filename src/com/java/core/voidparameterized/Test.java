@@ -22,6 +22,12 @@ public class Test {
 
 	subtrr ss = new subtrr();
 	ss.calculation(21,45,67);
+	
+	
+	Add1 aa = new Add1();
+	
+	aa.berij();
+	aa.berij1(44, 44);
 
 		
 	}
