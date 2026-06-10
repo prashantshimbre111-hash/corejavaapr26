@@ -33,6 +33,16 @@ public class Test {
 	int multiply = ss.calcution();
 	System.out.println("a*b : " + multiply);
 	
+	Add1 aa = new Add1();
+	
+	int berij = aa.berij();
+	System.out.println(berij);
+	
+	int berij1 = aa.berij1(32, 21);
+	System.out.println(berij1);
+	
+	
+	
 	
 	
 
