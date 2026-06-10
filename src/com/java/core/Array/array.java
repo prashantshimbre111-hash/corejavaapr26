@@ -15,7 +15,7 @@ public class array {
 		a[2] = 13;
 		a[3] = 14;
 		a[4] = 15;
-		a[5] = 16;
+		a[5] = 16; 
 		
 		System.out.println(a[1]);
 		
